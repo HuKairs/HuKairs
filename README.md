@@ -20,3 +20,8 @@
 - 👩‍💻 I can create a website for you, one that you can tell me how you would like it to look, what you want to be on there, etc. I will place my name and stuff to show that I created it, and how you setup and host the website is not my problem. The pay will depend on how long it will take, and what you are asking me to do. e.g. if it's for personal use it will be cheaper than it being used for a business.
 
 - I am always learning on topics that I am advanced in, and when I feel comfortable with them I will put them here as a service that I can provide.
+
+## What do I like? 😄
+- I enjoy shows/animes, but right now I am fixated on the anime Demon Slayer.
+- I love music, if you want to know what kind of music I enjoy here is my [Spotify Playlist](https://open.spotify.com/playlist/3VE2QXzigVgEjD72WIm5Of?si=6a2b52d515184de6)
+- I am a snow-season person, I love snowboarding with friends and family, and I enjoy freestyle. I also enjoy skateboarding as a side effect of snowboarding.
