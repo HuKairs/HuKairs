@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌐 ABOUT ME 
 
-<!--
-**proudcreeper/proudcreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a closed-sourced discord bot.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me: Discord, check out my portfolio for more info (coming soon)
 
-Here are some ideas to get you started:
+## ❓ What can I do?
+- 💻 I can code in Python, some Java, Html, and CSS. I can apply these skills to create e.g. a Discord bot, a website, a desktop application (still practicing this), etc.
 
-- 🔭 I’m currently working on a closed-sourced discord bot
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎶 I am able to produce music using FL studio (Fruity Loops studio), and Logic Pro. I can create music from trap beats to minimalistic music to orchestral, etc.
+
+- 📜 I can solve complex math equations, whether it is algebraic, trig, probability, or mixed!
+  
+
+## ✍ My services
+### When I am free, these services will be open, you can find out more about them on my website: coming soon
+- ➕➖➗ Math tutoring for middle school up to year 10. (I follow the IB [International Baccalaureate] curriculum, but I am still  to help you as long as you provide me context and the unit you are working on.)
