@@ -14,4 +14,4 @@
 
 ## ✍ My services
 ### When I am free, these services will be open, you can find out more about them on my website: coming soon
-- ➕➖➗ Math tutoring for middle school up to year 10. (I follow the IB [International Baccalaureate] curriculum, but I am still  to help you as long as you provide me context and the unit you are working on.)
+- ➕➖➗ Math tutoring for middle school up to year 10. (I follow the IB [International Baccalaureate] curriculum, but I will still help you as long as you provide me context and the unit you are working on.)
