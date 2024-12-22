@@ -15,7 +15,7 @@
 
 ## ✍ My services
 ### When I am free, these services will be open, you can find out more about them on my website: coming soon
-- ➕➖➗ Math tutoring for middle school up to year 10. I follow the [IB](https://www.ibo.org/en/), [International Baccalaureate](https://www.ibo.org/en/), curriculum, but I will still help you as long as you provide me context and the unit you are working on, as long as   I can help you, as I am still in school. The pay will depend on how long you would like the session to be.
+- ➕➖➗ Math tutoring for middle school up to year 10. I follow the [IB](https://www.ibo.org/en/), [International Baccalaureate](https://www.ibo.org/en/), curriculum, but I will still help if you are outside the IB curriculum, as long as you provide me context and the unit you are working on, as long as   I can help you, as I am still in school. The pay will depend on how long you would like the session to be.
 
 - 👩‍💻 I can create a website for you, one that you can tell me how you would like it to look, what you want to be on there, etc. I will place my name and stuff to show that I created it, and how you setup and host the website is not my problem. The pay will depend on how long it will take, and what you are asking me to do. e.g. if it's for personal use it will be cheaper than it being used for a business.
 
